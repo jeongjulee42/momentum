@@ -6,4 +6,4 @@
 
 ## 정보
 
-[app-url]: https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca
+https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca
